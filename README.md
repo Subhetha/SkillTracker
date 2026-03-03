@@ -1,0 +1,1 @@
+A simple and powerful Skill Tracker App that helps users track, manage, and improve their skills efficiently. This application allows users to add skills, monitor progress, set goals, and visualize improvement over time.
